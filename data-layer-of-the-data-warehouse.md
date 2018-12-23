@@ -103,7 +103,7 @@ date: 2018/12/16 20:25:25
 
 *备注：例子只是为了简单地说明每一层的作用，并不是最合理的解决方案，大家辩证地看待即可*。
 
-![](/Users/dantezhao/Documents/workspace/github/data-warehouse/data-layer-of-the-data-warehouse/data-layer-example.png)
+![](./data-layer-of-the-data-warehouse/data-layer-example.png)
 
 ## 0x04 技术实践
 
