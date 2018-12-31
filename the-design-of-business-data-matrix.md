@@ -69,7 +69,7 @@ date: 2018/12/31 20:25:25
 
 ## 0x03 思考
 
-如同该系列的其它文章一样（可参考https://github.com/dantezhao/data-warehouse），本文也会从不同的角度来思考和总结业务数据矩阵的设计方法和原则。
+如同该系列的其它文章一样（可参考https://github.com/dantezhao/data-warehouse ），本文也会从不同的角度来思考和总结业务数据矩阵的设计方法和原则。
 
 ### 业务数据矩阵的适用范围
 
