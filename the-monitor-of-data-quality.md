@@ -118,7 +118,7 @@ date: 2019/04/14 21:45:25
 - 告警：告警是指出发告警的动作，这里可以通过微信消息、电话、短信或者是微信小程序的方式来触发告警内容。
 - 反馈：这里需要特别注意，反馈是指对告警内容的反馈，比如说收到的告警的内容，那么负责人要来回应这个告警消息是否是真的异常，是否需要忽略该异常，是否已经处理了该异常。有了反馈的机制，整个数据质量监控才容易形成闭环。更能体现业务价值。
 
-![](/Users/dantezhao/Documents/workspace/github/data-warehouse/the-monitor-of-data-quality/overal-design.png)
+![](./the-monitor-of-data-quality/overal-design.png)
 
 
 
