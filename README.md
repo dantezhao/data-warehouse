@@ -11,3 +11,4 @@
 | [一种通用的数据仓库分层方法](./data-layer-of-the-data-warehouse.md) |   v3.0   | 2018-12-26 | dantezhao |
 | [数据仓库实践之业务数据矩阵的设计](./the-design-of-business-data-matrix.md) |   v1.0   | 2018-12-31 | dantezhao |
 | [数据对业务价值帮助的一些思考](./the-value-of-data.md) |   v1.0   | 2019-02-15 | dantezhao |
+| [闲聊数据库和数据仓库的区别](./the-diff-between-db-and-dw.md) |   v1.0   | 2019-03-05 | dantezhao |
