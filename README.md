@@ -12,4 +12,10 @@
 | [数据仓库实践之业务数据矩阵的设计](./the-design-of-business-data-matrix.md) |   v1.0   | 2018-12-31 | dantezhao |
 |    [数据对业务价值帮助的一些思考](./the-value-of-data.md)    |   v1.0   | 2019-02-15 | dantezhao |
 | [闲聊数据库和数据仓库的区别](./the-diff-between-db-and-dw.md) |   v1.0   | 2019-03-05 | dantezhao |
-| [数据质量监控：如何让老板相信你的数据？](the-monitor-of-data-quality.md) |   v1.0   | 2019-04-14 | dantezhao |
+| [数据质量监控：如何让老板相信你的数据？](./the-monitor-of-data-quality.md) |   v1.0   | 2019-04-14 | dantezhao |
+| [数据仓库实践之如何设计可执行表命名规范](./the-table-name-specification.md) |   v1.0   | 2019-05-12 | dantezhao |
+
+
+
+
+
